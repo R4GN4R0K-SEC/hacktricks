@@ -1,14 +1,26 @@
-# HackTricks
+<html>
+<head> 
 
+<h1 align="center">
+<p align="center">
+🔥💀🅰🅽🅾🅽🆈🅼🅾🆄🆂💀🔥<br>  
+ ░█▀▀░█░█░█▀█░█▀▀░▀█▀<br>
+ ░█░█░█▀█░█░█░▀▀█░░█░<br> 
+ ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░<br># HackTricks
 <figure><img src=".gitbook/assets/hacktricks.gif" alt=""><figcaption></figcaption></figure>
 
 _Hacktricks logos & motion design by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+</p></h1>
+</head>
+<body>
 
+<h3>
 {% hint style="success" %}
 **Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.**
 {% endhint %}
 
 To get started follow this page where you will find the **typical flow** that **you should follow when pentesting** one or more **machines:**
+</h3>
 
 {% content-ref url="generic-methodologies-and-resources/pentesting-methodology.md" %}
 [pentesting-methodology.md](generic-methodologies-and-resources/pentesting-methodology.md)
@@ -129,3 +141,6 @@ Learn & practice GCP Hacking: <img src="/.gitbook/assets/grte.png" alt="" data-s
 
 </details>
 {% endhint %}
+
+</body>
+</html>
